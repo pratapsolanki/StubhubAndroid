@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EventLists</string>
+    <string name="city">City</string>
+    <string name="price">Price</string>
+    <string name="both">City OR Price</string>
+    <string name="both_end">City AND Price</string>
+    <string name="ok">OK</string>
+    <string name="selection_error">select any option</string>
+    <string name="reset">Reset</string>
+    <string name="result_not_found">Result not found.</string>
+    <string name="enter_city">Enter City</string>
+    <string name="enter_price">Enter Price</string>
+    <string name="empty_value">empty value</string>
+    <string name="reset_data">Reset the data successfully</string>
+</resources>
