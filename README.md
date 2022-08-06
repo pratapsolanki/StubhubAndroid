@@ -41,4 +41,4 @@ APK File: [download](https://github.com/pratapsolanki/StubhubAndroid/blob/master
   </table>
 
 
-# Thanks for an opportunity! 
+# Thanks for the opportunity! 
