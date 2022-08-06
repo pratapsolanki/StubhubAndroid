@@ -19,7 +19,7 @@ APK File: [download](https://github.com/pratapsolanki/StubhubAndroid/blob/master
 
 <table>
   <tr>
-    <td>Home Screen</td>
+    <td>Event List Screen</td>
      <td>Filter By City Screen</td>
      <td>Filter By Price Screen</td>
   </tr>
